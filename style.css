@@ -1,12 +1,60 @@
-#total{
+body{
     
-    width:1000px; 
-    margin: auto;
-    background-color: red;
+    margin: 0;
+    font-family: 'tahoma ms';
+    color: #666;
+    
 }
 
-#total h1{
+
+#total{
     
-    text-align: center;
+    width: 1000px;
+    margin: auto;
+    
     
 }
+
+
+#logo {
+    
+    margin-top: 3%;
+    text-align: center;
+}
+
+#menu{
+    padding: 1%;
+    background-color: black;
+    margin-top: 30px;
+    text-align: center;
+}
+
+#menu a{
+    text-decoration: none;
+    margin-left: 6%;
+    color: white;
+    
+    
+}
+
+#caixa{
+    
+    margin-top: 0.5%;
+    
+    
+}
+
+#caixa img {
+    
+   width: 100%; 
+    
+    
+}
+
+
+#menu a:hover{
+    color: white;
+    text-decoration: underline;
+    
+}
+
