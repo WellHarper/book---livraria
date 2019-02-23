@@ -1,7 +1,7 @@
 body{
     
     margin: 0;
-    font-family: 'tahoma ms';
+    font-family: tahoma ;
     color: #666;
     
 }
@@ -40,6 +40,7 @@ body{
 #caixa{
     
     margin-top: 0.5%;
+    margin-bottom: 30px;
     
     
 }
@@ -57,4 +58,75 @@ body{
     text-decoration: underline;
     
 }
+
+#tp {
+    
+    width: 60%;
+    color: #666;
+    float: left;
+
+}
+    
+#ts p {
+    
+    font-style: italic;
+    font-size: 16px;
+    
+     color: #999;  
+    
+}    
+    
+    
+    
+#ts {
+    
+    width: 35%;
+    
+    float: right;
+    
+    
+    
+    
+}
+
+#tp {
+    
+    font-size: 16px;
+    
+    
+    
+}
+
+h1, h2{
+    
+    margin: 0;
+    font-size: 20px;
+    color: #333;
+    
+    
+    
+    
+}
+
+h2{
+    
+    font-size: 18px;
+    
+    
+}
+
+
+footer {
+    
+    font-size: 11px;
+    clear: both;
+    text-align: center;
+    width: 1000px;
+    padding: 30px 0;
+    color: #999;
+    
+}
+
+
+
 
